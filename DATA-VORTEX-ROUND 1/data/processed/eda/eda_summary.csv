@@ -1,0 +1,17 @@
+metric,value
+total_posts,12000
+highest_avg_engagement_platform,Instagram
+highest_avg_engagement,4040.02
+dominant_engagement_type,Likes
+dominant_engagement_percentage,58.32
+highest_engagement_day,Wednesday
+highest_day_avg_engagement,3682.79
+best_reliable_day,Wednesday
+best_reliable_hour,19
+best_reliable_avg_engagement,4420.7
+likes_shares_correlation,-0.001
+likes_comments_correlation,0.01
+shares_comments_correlation,0.024
+duplicate_rows,0
+duplicate_post_ids,0
+negative_likes,0

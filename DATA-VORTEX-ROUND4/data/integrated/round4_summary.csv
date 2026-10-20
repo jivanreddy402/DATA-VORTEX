@@ -1,0 +1,5 @@
+round,metric,value
+Round 1,Cleaned Posts,12000.0
+Round 2,NLP Training Records,9000.0
+Round 3,Live Conversation Records,160.0
+Round 2,Model Accuracy,59.49

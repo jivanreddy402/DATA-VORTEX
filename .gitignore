@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+env/
+**/__pycache__/
+**/.venv/
+
+# Python bytecode & cache
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
