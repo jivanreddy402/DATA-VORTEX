@@ -1,4 +1,4 @@
-# DATA VORTEX — Social Engine 🌪️📊
+# DATA VORTEX — Social Engine
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Executive Summary](#-executive-summary)
 2. [System Architecture](#-system-architecture)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔭 Executive Summary
+## Executive Summary
 
 **DATA VORTEX — Social Engine** is a comprehensive, multi-phase data science and intelligence platform engineered to transform raw, noisy, and corrupted social media streams into actionable, real-time strategic insights. 
 
@@ -43,7 +43,7 @@ Built in four sequential, modular phases ("Rounds"), the platform addresses the 
 
 ---
 
-## 🏛️ System Architecture
+## System Architecture
 
 ```mermaid
 flowchart TD
@@ -77,7 +77,7 @@ flowchart TD
 
 ---
 
-## 📂 Repository Directory Structure
+## Repository Directory Structure
 
 ```text
 DATA-VORTEX-SOCIAL-ENGINE/
@@ -150,7 +150,7 @@ DATA-VORTEX-SOCIAL-ENGINE/
 
 ---
 
-## 🔄 Lifecycle & Round Breakdown
+## Lifecycle & Round Breakdown
 
 ### Round 1 — Rebuilding the Social Engine
 *Data Quality Recovery, Exploratory Data Analysis & SQL Intelligence*
@@ -279,7 +279,7 @@ Round 4 brings all previous phases together into a unified, responsive Streamlit
 
 ---
 
-## 💡 Key Analytical Signals & Business Insights
+## Key Analytical Signals & Business Insights
 
 | Signal Type | Finding | Strategic Action |
 | :--- | :--- | :--- |
@@ -291,7 +291,7 @@ Round 4 brings all previous phases together into a unified, responsive Streamlit
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Tools & Libraries | Purpose |
 | :--- | :--- | :--- |
@@ -306,7 +306,7 @@ Round 4 brings all previous phases together into a unified, responsive Streamlit
 
 ---
 
-## 🚀 Installation & Quickstart Guide
+## Installation & Quickstart Guide
 
 ### Prerequisites
 * Python 3.10, 3.11, or 3.12 installed on your machine
@@ -336,7 +336,7 @@ pip install streamlit pandas numpy plotly scikit-learn joblib feedparser matplot
 
 ---
 
-## 🏃 Reproducibility & Execution Flow
+## Reproducibility & Execution Flow
 
 ### Launching the Interactive Dashboard (Round 4)
 To launch the primary executive dashboard directly:
@@ -384,7 +384,7 @@ python scripts/14_inspect_trigger_dates.py
 
 ---
 
-## 📜 Project Documentation Deliverables
+## Project Documentation Deliverables
 
 Detailed technical reports and query explanations for each round are located in the respective subdirectories:
 * **Round 1 Phase 2**:
@@ -402,7 +402,7 @@ Detailed technical reports and query explanations for each round are located in 
 
 ---
 
-## ⚖️ License & Acknowledgements
+## License & Acknowledgements
 
 Developed as part of the **DATA VORTEX** data science and social engine challenge.  
 Data generated, audited, and curated for multi-platform social analytics research.
